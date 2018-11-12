@@ -7,6 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Inserted Successfully </h1>
+
+<form action="/spring1/addsupplier" method="POST">
+	Supplier name: <input type="text" name="sName"/>
+	Supplier address: <input type="text" name="sAddress"/>
+	<input type="submit" value="Submit info"/>
+</form>
+
 </body>
 </html>

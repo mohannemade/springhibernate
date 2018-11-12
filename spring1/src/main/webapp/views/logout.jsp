@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Inserted Successfully </h1>
+	<h3> You are Successfully logged out !!!</h3>
 </body>
 </html>

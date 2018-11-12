@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Inserted Successfully </h1>
+
+	<a href="/spring1/addProduct">Add Products</a>
+	<a href="/spring1/supplier">Add Supplier</a>
+	<a href="/spring1/listProd">List</a>
+
 </body>
 </html>
